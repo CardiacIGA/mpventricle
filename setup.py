@@ -15,6 +15,6 @@ setup(name     = 'vtnurbs',
       author   = 'Robin Willems',
       packages = ['vtnurbs'],
       description      = 'NURBS-based ventricle template geometry generator',
-      download_url     = 'https://gitlab.tue.nl/iga-heart-model/nurbs-geometry/-/tree/main',
+      download_url     = 'https://github.com/CardiacIGA/multipatch-ventricle/tree/main',
       long_description = long_description,
       zip_safe = False)
